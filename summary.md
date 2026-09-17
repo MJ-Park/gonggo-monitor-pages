@@ -1,39 +1,41 @@
-# 공공지원사업 공고 모니터 — 2026-09-17
+# 공공지원사업 공고 모니터 — 2026-09-18
 
-- started (UTC): 2026-09-16T23:08:42.308286+00:00
-- finished (UTC): 2026-09-16T23:14:27.469297+00:00
+- started (UTC): 2026-09-17T23:20:51.310361+00:00
+- finished (UTC): 2026-09-17T23:29:10.079811+00:00
 - baseline: False
 - dry_run: True
 
 ## 요약
 
-- NEW (processed): 49
-- UPDATED (processed): 3
-- list totals: {'NEW': 49, 'UPDATED': 3, 'UNCHANGED': 448, 'FAILED': 0}
+- NEW (processed): 81
+- UPDATED (processed): 1
+- list totals: {'NEW': 81, 'UPDATED': 1, 'UNCHANGED': 418, 'FAILED': 0}
 - process failures (notice-level): 0
-- conflicts (analysis): 2
-- extraction failures: 29
+- conflicts (analysis): 6
+- extraction failures: 39
 
 ## 소스별 성공/실패
 
-- **bizinfo** [OK]: {'NEW': 45, 'UPDATED': 0, 'UNCHANGED': 55, 'FAILED': 0}
-- **iris** [OK]: {'NEW': 0, 'UPDATED': 0, 'UNCHANGED': 100, 'FAILED': 0}
-- **kstartup** [OK]: {'NEW': 4, 'UPDATED': 3, 'UNCHANGED': 93, 'FAILED': 0}
+- **bizinfo** [OK]: {'NEW': 52, 'UPDATED': 0, 'UNCHANGED': 48, 'FAILED': 0}
+- **iris** [OK]: {'NEW': 1, 'UPDATED': 0, 'UNCHANGED': 99, 'FAILED': 0}
+- **kstartup** [OK]: {'NEW': 28, 'UPDATED': 0, 'UNCHANGED': 72, 'FAILED': 0}
 - **ntis** [OK]: {'NEW': 0, 'UPDATED': 0, 'UNCHANGED': 100, 'FAILED': 0}
-- **smtech** [OK]: {'NEW': 0, 'UPDATED': 0, 'UNCHANGED': 100, 'FAILED': 0}
+- **smtech** [OK]: {'NEW': 0, 'UPDATED': 1, 'UNCHANGED': 99, 'FAILED': 0}
 
 ## 마감 7일 이내
 
-- [kstartup] 베트남 테크페스트(TECHFEST 2026) K-스타트업 통합관 참가기업 모집공고 — 마감 2026-09-17
-- [kstartup] 「2026 투자유치 프로그램: 멘토링」참가기업 모집 공고 — 마감 2026-09-17
-- [kstartup] 「모두의 창업 프로젝트」통합 모집공고 2차 — 마감 2026-09-17
-- [bizinfo] [경북] 김천시 2026년 4차 사회적경제기업 행사참여지원사업 참여기업 모집 공고 — 마감 2026-09-21
-- [bizinfo] [경북] 김천시 2026년 4차 사회적경제기업 컨설팅지원사업 참여기업 모집 공고 — 마감 2026-09-21
-- [bizinfo] 2026년 코리아 핀테크 위크 전시 참가기업 모집 재공고 — 마감 2026-09-23
-- [bizinfo] [제주] 2026년 2차 도내 관광사업체 중심 제주 상품 홍보마케팅 지원 공고 — 마감 2026-09-21
-- [bizinfo] [제주] 2026년 2차 도내 여행업계 중심 제주 상품 홍보마케팅 지원 공고 — 마감 2026-09-21
-- [bizinfo] [경북] 2026년 흥해라 신라난전 참여 소상공인 모집 연장 공고 — 마감 2026-09-18
-- [bizinfo] [부산] 신평ㆍ장림 2026년 4차 스마트그린 산업단지 스마트제조 고급인력 양성사업 기업지원 모집 공고 — 마감 2026-09-23
+- [kstartup] 2026년 시흥창업캠프 새로운게시글 — 마감 2026-09-21
+- [kstartup] 2026년 28청춘창업소 액셀러레이팅 프로그램 전문가 멘토링 3차 새로운게시글 — 마감 2026-09-23
+- [kstartup] [부산대학교병원]「의료·헬스케어 스타트업 인큐베이터 사업」국내전시회(공동관) 참가지원 모집 공고 새로운게시글 — 마감 2026-09-21
+- [kstartup] 「2026년 제4회 부기테크 투자쇼」투자상담회 참가기업 모집공고 새로운게시글 — 마감 2026-09-23
+- [kstartup] 바이오스타 2.0 예비창업자 모집 공고 및 설명회 개최 새로운게시글 — 마감 2026-09-22
+- [kstartup] [글로벌 인재] 2026 이공계 GKS 대학원생 산학프로젝트 및 인턴십 참여기업 모집 새로운게시글 — 마감 2026-09-22
+- [kstartup] 2026 홍콩 메가쇼(Mega Show Hong Kong 2026) 참가기업 모집 공고 새로운게시글 — 마감 2026-09-21
+- [bizinfo] 2026년 중소기업 ESG 지원사업 대상기업 공고 — 마감 2026-09-23
+- [bizinfo] [전남광주] 2026년 사회문제 해결 오픈이노베이션 참여기업 모집 공고 — 마감 2026-09-23
+- [bizinfo] [강원] 2026년 푸드엑스포 카자흐스탄 참가 지원사업 참가기업 추가모집 공고 — 마감 2026-09-21
+- [bizinfo] [전북] 남원시 2026년 수출물류비 지원사업 시행계획 추가 공고 — 마감 2026-09-23
+- [bizinfo] [전북] 익산시 2026년 창업기업 우체국쇼핑몰 입점 지원사업 참여자 추가 모집 공고 — 마감 2026-09-23
 
 ## Delivery notes
 
