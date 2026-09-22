@@ -1,42 +1,39 @@
-# 공공지원사업 공고 모니터 — 2026-09-22
+# 공공지원사업 공고 모니터 — 2026-09-23
 
-- started (UTC): 2026-09-21T23:08:24.590401+00:00
-- finished (UTC): 2026-09-21T23:16:07.863292+00:00
+- started (UTC): 2026-09-22T23:08:35.474285+00:00
+- finished (UTC): 2026-09-22T23:13:22.969116+00:00
 - baseline: False
 - dry_run: True
 
 ## 요약
 
-- NEW (processed): 72
-- UPDATED (processed): 21
-- list totals: {'NEW': 72, 'UPDATED': 21, 'UNCHANGED': 407, 'FAILED': 0}
+- NEW (processed): 51
+- UPDATED (processed): 9
+- list totals: {'NEW': 51, 'UPDATED': 9, 'UNCHANGED': 440, 'FAILED': 0}
 - process failures (notice-level): 0
-- conflicts (analysis): 4
-- extraction failures: 21
+- conflicts (analysis): 0
+- extraction failures: 16
 
 ## 소스별 성공/실패
 
-- **bizinfo** [OK]: {'NEW': 43, 'UPDATED': 0, 'UNCHANGED': 57, 'FAILED': 0}
-- **iris** [OK]: {'NEW': 0, 'UPDATED': 0, 'UNCHANGED': 100, 'FAILED': 0}
-- **kstartup** [OK]: {'NEW': 14, 'UPDATED': 5, 'UNCHANGED': 81, 'FAILED': 0}
-- **ntis** [OK]: {'NEW': 13, 'UPDATED': 5, 'UNCHANGED': 82, 'FAILED': 0}
-- **smtech** [OK]: {'NEW': 2, 'UPDATED': 11, 'UNCHANGED': 87, 'FAILED': 0}
+- **bizinfo** [OK]: {'NEW': 46, 'UPDATED': 0, 'UNCHANGED': 54, 'FAILED': 0}
+- **iris** [OK]: {'NEW': 2, 'UPDATED': 1, 'UNCHANGED': 97, 'FAILED': 0}
+- **kstartup** [OK]: {'NEW': 2, 'UPDATED': 0, 'UNCHANGED': 98, 'FAILED': 0}
+- **ntis** [OK]: {'NEW': 0, 'UPDATED': 1, 'UNCHANGED': 99, 'FAILED': 0}
+- **smtech** [OK]: {'NEW': 1, 'UPDATED': 7, 'UNCHANGED': 92, 'FAILED': 0}
 
 ## 마감 7일 이내
 
-- [kstartup] [창업BuS x Station C] 2026년 강원BRIDGE 배치프로그램 2차 창업기업 모집 새로운게시글 — 마감 2026-09-29
-- [kstartup] 청년창업 거주지원시설(창업하여家) 입주자 3차 모집(연장) 새로운게시글 — 마감 2026-09-29
-- [kstartup] 2026년 제2회 테크플러스 스테이지 입주기업 모집 공고 새로운게시글 — 마감 2026-09-29
-- [kstartup] 2026년 전북청년창업박람회 창업기업 모집 공고 새로운게시글 — 마감 2026-09-22
-- [kstartup] 바이오스타 2.0 예비창업자 모집 공고 및 설명회 개최 — 마감 2026-09-22
-- [kstartup] [글로벌 인재] 2026 이공계 GKS 대학원생 산학프로젝트 및 인턴십 참여기업 모집 — 마감 2026-09-22
-- [kstartup] 「아시아 창업 엑스포 FLY ASIA 2026」참여 스타트업 모집(1:1 밋업, 전시) / 밋업 스타트업 모집 기간 연장(~9.30.) 수정업데 — 마감 2026-09-23
-- [bizinfo] 2026년 2차 장애인기업 국내ㆍ외 전시회참가 지원사업 참여기업 모집 공고 — 마감 2026-09-28
-- [bizinfo] [전남광주] 2026년 4차 전남해양수산창업투자지원센터 사업 수혜기업 모집 공고 — 마감 2026-09-28
-- [bizinfo] [부산] 2026년 협동조합 비대면 마케팅 지원사업 참가 기업 모집 공고 — 마감 2026-09-23
-- [bizinfo] [대전ㆍ세종] 2026년 하반기 동행축제 지역 우수 전통주 라이브커머스 참여업체 모집 공고 — 마감 2026-09-29
-- [bizinfo] [충남] 2026년 11월 동행축제 우수 소상공인 제품 라이브커머스 참가기업 모집 공고 — 마감 2026-09-27
-- [bizinfo] [경북] 2026년 레전드50+ 기업맞춤 지능형 첨단소재 인력양성사업 지역 청년 대상 기업탐방 참여기업 추가모집 공고 — 마감 2026-09-24
+- [kstartup] ‘2026년 글로컬 창업사관학교 액셀러레이팅’ 참여기업 모집 공고 새로운게시글 — 마감 2026-09-29
+- [bizinfo] [인천] 2026년 자동차산업ㆍ기업도약패키지(역량강화컨설팅) 참여기업 모집 공고(자동차 업종 상생협약 확산 지원사업) — 마감 2026-09-30
+- [bizinfo] [서울] 동작구 2026년 모범음식점 신청 공고 — 마감 2026-09-28
+- [bizinfo] [서울] 구로구 2026년 하반기 일반음식점 시설개선 지원사업 기간 연장 공고 — 마감 2026-09-28
+- [bizinfo] [서울] 성북구 2026년 모범음식점 지정 희망업소 모집 공고 — 마감 2026-09-30
+- [bizinfo] [경남] 2026년 (예비)사회적기업 판로개척 지원사업 라이브커머스 지원사업 참가기업 모집 공고 — 마감 2026-09-30
+- [bizinfo] 2026년 글로벌 인플루언서 엑스포 (Global Influencer Expo 2026) 참여기업 모집 공고 — 마감 2026-09-28
+- [bizinfo] [경남] 2026년 독일 뒤셀도르프 국제의료기기 전시회 참가 지원사업 참가업체 추가모집 공고 — 마감 2026-09-28
+- [bizinfo] [경북] 2026년 경북PRIDE기업 수요 연계형 전주기 신기술 지원사업 참여기업 모집 연장 공고 — 마감 2026-09-30
+- [ntis] 국방표준화 소요 및 연구과제 사전 의견(설문)조사 — 마감 2026-09-30
 
 ## Delivery notes
 
