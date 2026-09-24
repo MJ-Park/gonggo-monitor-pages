@@ -1,36 +1,35 @@
-# 공공지원사업 공고 모니터 — 2026-09-24
+# 공공지원사업 공고 모니터 — 2026-09-25
 
-- started (UTC): 2026-09-23T23:18:56.178601+00:00
-- finished (UTC): 2026-09-23T23:23:01.832487+00:00
+- started (UTC): 2026-09-24T23:02:01.384105+00:00
+- finished (UTC): 2026-09-24T23:06:35.395318+00:00
 - baseline: False
 - dry_run: True
 
 ## 요약
 
-- NEW (processed): 38
-- UPDATED (processed): 2
-- list totals: {'NEW': 38, 'UPDATED': 2, 'UNCHANGED': 460, 'FAILED': 0}
+- NEW (processed): 0
+- UPDATED (processed): 13
+- list totals: {'NEW': 0, 'UPDATED': 13, 'UNCHANGED': 487, 'FAILED': 0}
 - process failures (notice-level): 0
 - conflicts (analysis): 0
-- extraction failures: 12
+- extraction failures: 8
 
 ## 소스별 성공/실패
 
-- **bizinfo** [OK]: {'NEW': 36, 'UPDATED': 0, 'UNCHANGED': 64, 'FAILED': 0}
-- **iris** [OK]: {'NEW': 1, 'UPDATED': 2, 'UNCHANGED': 97, 'FAILED': 0}
-- **kstartup** [OK]: {'NEW': 1, 'UPDATED': 0, 'UNCHANGED': 99, 'FAILED': 0}
+- **bizinfo** [OK]: {'NEW': 0, 'UPDATED': 0, 'UNCHANGED': 100, 'FAILED': 0}
+- **iris** [OK]: {'NEW': 0, 'UPDATED': 0, 'UNCHANGED': 100, 'FAILED': 0}
+- **kstartup** [OK]: {'NEW': 0, 'UPDATED': 13, 'UNCHANGED': 87, 'FAILED': 0}
 - **ntis** [OK]: {'NEW': 0, 'UPDATED': 0, 'UNCHANGED': 100, 'FAILED': 0}
 - **smtech** [OK]: {'NEW': 0, 'UPDATED': 0, 'UNCHANGED': 100, 'FAILED': 0}
 
 ## 마감 7일 이내
 
-- [bizinfo] [울산] 중구 2026년 소상공인 카드수수료 지원사업 추가모집 기간연장 공고 — 마감 2026-09-30
-- [bizinfo] 2026년 4차 온라인 인력지원 지원기업 추가 모집 공고(농식품 수출지원사업) — 마감 2026-10-01
-- [bizinfo] [강원] 춘천시 2026년 Station C 마케팅지원 모집 공고 — 마감 2026-09-30
-- [bizinfo] [경북] 2026년 경북청년 롯데 백화점 포항점 팝업스토어 참여기업 추가모집 공고 — 마감 2026-09-30
-- [bizinfo] [경북] 2026년 2차 지역 고교인재 비즈쿨 프로젝트 내일경험 인턴십 참여기업 모집 공고 — 마감 2026-10-01
-- [bizinfo] [충북] 2026년 이차전지 특화단지 추진단 운영 사업 소부장뿌리기술대전 참가기업 추가모집 공고 — 마감 2026-09-28
-- [iris] (연장공고) 2026년도 하반기 방송통신정책연구 신규지원 대상과제 공고 — 마감 2026-09-29
+- [kstartup] 2026 K-BIO 글로벌 이노베이션 링스(LinX) — 마감 2026-09-30
+- [kstartup] [창업BuS x Station C] 2026년 강원BRIDGE 배치프로그램 2차 창업기업 모집 — 마감 2026-09-29
+- [kstartup] [창업] 창업가를 위한 가격 전략 실전 — 마감 2026-10-02
+- [kstartup] 청년창업 거주지원시설(창업하여家) 입주자 3차 모집(연장) — 마감 2026-09-29
+- [kstartup] 2026년 제2회 테크플러스 스테이지 입주기업 모집 공고 — 마감 2026-09-29
+- [kstartup] 2026 제4회 SB 스타트업 네트워킹 페스티벌: AI 기반 지역문제 해결 해커톤 참가자 모집 (~9/30) — 마감 2026-09-30
 
 ## Delivery notes
 
