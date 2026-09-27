@@ -1,35 +1,33 @@
-# 공공지원사업 공고 모니터 — 2026-09-25
+# 공공지원사업 공고 모니터 — 2026-09-28
 
-- started (UTC): 2026-09-24T23:02:01.384105+00:00
-- finished (UTC): 2026-09-24T23:06:35.395318+00:00
+- started (UTC): 2026-09-27T23:01:39.135587+00:00
+- finished (UTC): 2026-09-27T23:05:53.560580+00:00
 - baseline: False
 - dry_run: True
 
 ## 요약
 
-- NEW (processed): 0
-- UPDATED (processed): 13
-- list totals: {'NEW': 0, 'UPDATED': 13, 'UNCHANGED': 487, 'FAILED': 0}
+- NEW (processed): 5
+- UPDATED (processed): 4
+- list totals: {'NEW': 5, 'UPDATED': 4, 'UNCHANGED': 491, 'FAILED': 0}
 - process failures (notice-level): 0
-- conflicts (analysis): 0
-- extraction failures: 8
+- conflicts (analysis): 1
+- extraction failures: 16
 
 ## 소스별 성공/실패
 
 - **bizinfo** [OK]: {'NEW': 0, 'UPDATED': 0, 'UNCHANGED': 100, 'FAILED': 0}
 - **iris** [OK]: {'NEW': 0, 'UPDATED': 0, 'UNCHANGED': 100, 'FAILED': 0}
-- **kstartup** [OK]: {'NEW': 0, 'UPDATED': 13, 'UNCHANGED': 87, 'FAILED': 0}
+- **kstartup** [OK]: {'NEW': 5, 'UPDATED': 4, 'UNCHANGED': 91, 'FAILED': 0}
 - **ntis** [OK]: {'NEW': 0, 'UPDATED': 0, 'UNCHANGED': 100, 'FAILED': 0}
 - **smtech** [OK]: {'NEW': 0, 'UPDATED': 0, 'UNCHANGED': 100, 'FAILED': 0}
 
 ## 마감 7일 이내
 
-- [kstartup] 2026 K-BIO 글로벌 이노베이션 링스(LinX) — 마감 2026-09-30
-- [kstartup] [창업BuS x Station C] 2026년 강원BRIDGE 배치프로그램 2차 창업기업 모집 — 마감 2026-09-29
-- [kstartup] [창업] 창업가를 위한 가격 전략 실전 — 마감 2026-10-02
-- [kstartup] 청년창업 거주지원시설(창업하여家) 입주자 3차 모집(연장) — 마감 2026-09-29
-- [kstartup] 2026년 제2회 테크플러스 스테이지 입주기업 모집 공고 — 마감 2026-09-29
-- [kstartup] 2026 제4회 SB 스타트업 네트워킹 페스티벌: AI 기반 지역문제 해결 해커톤 참가자 모집 (~9/30) — 마감 2026-09-30
+- [kstartup] ‘2026년 글로컬 창업사관학교 액셀러레이팅’ 참여기업 모집 공고 — 마감 2026-09-29
+- [kstartup] 2026년 모두의 창업 글로벌 재외국민 프로그램 참여자 모집 공고 — 마감 2026-09-28
+- [kstartup] 「2026년 강소특구 이노테크 발굴 및 창업지원사업」예비 창업자 사업화 지원 모집 공고 — 마감 2026-09-30
+- [kstartup] 남서울대학교 창업보육센터 입주기업 모집 (천안소재) — 마감 2026-09-30
 
 ## Delivery notes
 
