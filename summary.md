@@ -1,38 +1,38 @@
-# 공공지원사업 공고 모니터 — 2026-11-04
+# 공공지원사업 공고 모니터 — 2026-11-05
 
-- started (UTC): 2026-11-03T22:57:39.917384+00:00
-- finished (UTC): 2026-11-03T23:02:01.252158+00:00
+- started (UTC): 2026-11-04T23:01:21.095236+00:00
+- finished (UTC): 2026-11-04T23:07:06.964403+00:00
 - baseline: False
 - dry_run: True
 
 ## 요약
 
-- NEW (processed): 33
-- UPDATED (processed): 1
-- list totals: {'NEW': 33, 'UPDATED': 1, 'UNCHANGED': 466, 'FAILED': 0}
+- NEW (processed): 43
+- UPDATED (processed): 2
+- list totals: {'NEW': 43, 'UPDATED': 2, 'UNCHANGED': 455, 'FAILED': 0}
 - process failures (notice-level): 0
 - conflicts (analysis): 3
-- extraction failures: 21
+- extraction failures: 36
 
 ## 소스별 성공/실패
 
-- **bizinfo** [OK]: {'NEW': 29, 'UPDATED': 0, 'UNCHANGED': 71, 'FAILED': 0}
-- **iris** [OK]: {'NEW': 0, 'UPDATED': 0, 'UNCHANGED': 100, 'FAILED': 0}
-- **kstartup** [OK]: {'NEW': 4, 'UPDATED': 0, 'UNCHANGED': 96, 'FAILED': 0}
+- **bizinfo** [OK]: {'NEW': 28, 'UPDATED': 0, 'UNCHANGED': 72, 'FAILED': 0}
+- **iris** [OK]: {'NEW': 1, 'UPDATED': 0, 'UNCHANGED': 99, 'FAILED': 0}
+- **kstartup** [OK]: {'NEW': 14, 'UPDATED': 2, 'UNCHANGED': 84, 'FAILED': 0}
 - **ntis** [OK]: {'NEW': 0, 'UPDATED': 0, 'UNCHANGED': 100, 'FAILED': 0}
-- **smtech** [OK]: {'NEW': 0, 'UPDATED': 1, 'UNCHANGED': 99, 'FAILED': 0}
+- **smtech** [OK]: {'NEW': 0, 'UPDATED': 0, 'UNCHANGED': 100, 'FAILED': 0}
 
 ## 마감 7일 이내
 
-- [kstartup] 2026년 스타트업 법률지원사업 전남광주통합특별시 법률상담회 참여기업 모집 새로운게시글 — 마감 2026-11-09
-- [bizinfo] [강원] 강릉시 2026년 3차 어업인수당 지원 대상자 모집 공고 — 마감 2026-11-06
-- [bizinfo] [경북] 구미시 2026년 문화로 창업지원사업 참여 창업자 모집 공고 — 마감 2026-11-11
-- [bizinfo] 2027년 철도 유관기관 연계형 실용화 R&D 지원사업 공동연구개발 참여기업 재공모 — 마감 2026-11-06
-- [bizinfo] [대전] 유성구 2026년 착한가격업소 모집 공고 — 마감 2026-11-06
-- [bizinfo] [울산] 울주군 2026년 5차 청년 스마트팜 보급 육성 지원사업 지원기업 모집 공고 — 마감 2026-11-10
-- [bizinfo] [충남] 부여군 2026년 스마트팜청년농업인 육성단지 생산유통 지원사업 신청 공고 — 마감 2026-11-10
-- [bizinfo] [경남] 함양군 2026년 시군구연고산업육성 협업프로젝트 온라인 마케팅 활성화 프로그램(상세페이지제작) 지원 공고(함양군 특산물 산업생태계육성  — 마감 2026-11-06
-- [bizinfo] [경기] 포천시 2026년 지역소공인육성사업 통합마케팅지원 추가 모집 공고 — 마감 2026-11-06
+- [kstartup] 2026 신한금융희망재단 - 함께일하는재단, 사회연대경제 먹거리 으뜸경연대회 참여기업 모집 — 마감 2026-11-05
+- [kstartup] [제주창조경제혁신센터] 글로벌(중국) 기업 수요기반 비즈캠프형 오픈이노베이션「2026 오픈 아일랜드 부트캠프」참가기업 모집(~11/5) — 마감 2026-11-05
+- [bizinfo] 2027년 스페인 국제관광박람회(FITUR 2027) 한국 홍보관 국내 참가기관 모집 공고 — 마감 2026-11-09
+- [bizinfo] [대전] 2026년 북미시장진출지원사업 KIC 실리콘밸리 연계 Global Entry Program 모집 공고 — 마감 2026-11-11
+- [bizinfo] [부산] 2027년 마을기업 우수ㆍ모두애 심사 지원 컨설팅 참여 마을기업 모집 공고 — 마감 2026-11-10
+- [bizinfo] 2026년 전남 4차 중소기업 연구조직 설립 및 R&D 기획지원 사업 공고 — 마감 2026-11-06
+- [bizinfo] [제주] 2026년 제16회 제주 수출인의 날 포상계획 연장 공고 — 마감 2026-11-06
+- [bizinfo] 2026년 KDX 국제종합전시회 및 학술대회 연계 인천 광역형 국산의료기기 교육ㆍ훈련 지원센터 통합전시관 참여기업 모집 공고 — 마감 2026-11-09
+- [bizinfo] [경기] 2026년 경기도 공정무역 포트나잇 공정무역 특별관 참여기업 모집 재공고 — 마감 2026-11-09
 
 ## Delivery notes
 
